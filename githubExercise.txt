@@ -1,0 +1,16 @@
+Part 1
+
+1) Created a local repo using git init following along with the unit's videos
+
+2) Created remote repo on github, however was not able to push local repo as the videos described due
+    to outdated instructions. Got around issue using SSH key and cloning repo
+
+3) Done
+
+4) Done
+
+----------------
+Part 2
+----------------
+
+Uploaded Memory game to github, see Maldonadoa94.github.io
